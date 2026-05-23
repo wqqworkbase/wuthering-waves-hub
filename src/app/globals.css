@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&display=swap');
+
+@layer base {
+  body {
+    @apply bg-ww-bg text-ww-text font-sans antialiased;
+  }
+}
+
+@layer components {
+  .glass-nav {
+    @apply bg-ww-nav backdrop-blur-xl border-b border-ww-border;
+  }
+  .card-ww {
+    @apply bg-ww-surface rounded-ww shadow-ww-sm border border-ww-border
+           transition-all duration-200 hover:shadow-ww-lg hover:border-ww-cyan/25
+           hover:-translate-y-0.5;
+  }
+  .btn-cyan {
+    @apply inline-flex items-center gap-1.5 font-semibold text-sm px-6 py-2.5
+           rounded-full bg-gradient-to-br from-ww-cyan to-cyan-700 text-white
+           shadow-ww-glow hover:shadow-lg hover:shadow-ww-cyan/35
+           transition-all duration-200 hover:-translate-y-px;
+  }
+  .btn-outline-cyan {
+    @apply inline-flex items-center gap-1.5 font-semibold text-sm px-6 py-2.5
+           rounded-full border border-ww-cyan/30 text-ww-cyan
+           hover:bg-ww-cyan/5 hover:border-ww-cyan transition-all duration-200;
+  }
+  .section-label {
+    @apply text-xs font-bold uppercase tracking-widest text-ww-cyan mb-1;
+  }
+  .section-title {
+    @apply text-2xl font-bold tracking-tight text-slate-900 mb-6;
+  }
+}
+
+@layer utilities {
+  .text-gradient-cyan {
+    @apply bg-gradient-to-r from-ww-cyan to-cyan-700 bg-clip-text text-transparent;
+  }
+}
