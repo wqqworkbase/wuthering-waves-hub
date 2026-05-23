@@ -1,0 +1,887 @@
+[
+  {
+    "slug": "abyssal-gladius",
+    "name": "Abyssal Gladius",
+    "element": "Unknown"
+  },
+  {
+    "slug": "abyssal-mercator",
+    "name": "Abyssal Mercator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "abyssal-patricius",
+    "name": "Abyssal Patricius",
+    "element": "Unknown"
+  },
+  {
+    "slug": "aero-drake",
+    "name": "Aero Drake",
+    "element": "Unknown"
+  },
+  {
+    "slug": "aero-predator",
+    "name": "Aero Predator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "aero-prism",
+    "name": "Aero Prism",
+    "element": "Unknown"
+  },
+  {
+    "slug": "autopuppet-scout",
+    "name": "Autopuppet Scout",
+    "element": "Unknown"
+  },
+  {
+    "slug": "baby-roseshroom",
+    "name": "Baby Roseshroom",
+    "element": "Unknown"
+  },
+  {
+    "slug": "baby-viridblaze-saurian",
+    "name": "Baby Viridblaze Saurian",
+    "element": "Unknown"
+  },
+  {
+    "slug": "bell-borne-geochelone",
+    "name": "Bell-Borne Geochelone",
+    "element": "Unknown"
+  },
+  {
+    "slug": "calcified-junrock",
+    "name": "Calcified Junrock",
+    "element": "Unknown"
+  },
+  {
+    "slug": "capitaneus",
+    "name": "Capitaneus",
+    "element": "Unknown"
+  },
+  {
+    "slug": "carapace",
+    "name": "Carapace",
+    "element": "Unknown"
+  },
+  {
+    "slug": "category:echoes-by-class",
+    "name": "Category:Echoes by Class",
+    "element": "Unknown"
+  },
+  {
+    "slug": "category:echoes-by-cooldown",
+    "name": "Category:Echoes by Cooldown",
+    "element": "Unknown"
+  },
+  {
+    "slug": "category:echoes-by-cost",
+    "name": "Category:Echoes by COST",
+    "element": "Unknown"
+  },
+  {
+    "slug": "category:echoes-by-number",
+    "name": "Category:Echoes by Number",
+    "element": "Unknown"
+  },
+  {
+    "slug": "category:echoes-by-sonata-effect",
+    "name": "Category:Echoes by Sonata Effect",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chasm-guardian",
+    "name": "Chasm Guardian",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chest-mimic",
+    "name": "Chest Mimic",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chirpuff",
+    "name": "Chirpuff",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chop-chop-headless",
+    "name": "Chop Chop Headless",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chop-chop-leftless",
+    "name": "Chop Chop Leftless",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chop-chop-rightless",
+    "name": "Chop Chop Rightless",
+    "element": "Unknown"
+  },
+  {
+    "slug": "chop-chop",
+    "name": "Chop Chop",
+    "element": "Unknown"
+  },
+  {
+    "slug": "clang-bang",
+    "name": "Clang Bang",
+    "element": "Unknown"
+  },
+  {
+    "slug": "corrosaurus",
+    "name": "Corrosaurus",
+    "element": "Unknown"
+  },
+  {
+    "slug": "crownless",
+    "name": "Crownless",
+    "element": "Unknown"
+  },
+  {
+    "slug": "cruisewing",
+    "name": "Cruisewing",
+    "element": "Unknown"
+  },
+  {
+    "slug": "cuddle-wuddle",
+    "name": "Cuddle Wuddle",
+    "element": "Unknown"
+  },
+  {
+    "slug": "cyan-feathered-heron",
+    "name": "Cyan-Feathered Heron",
+    "element": "Unknown"
+  },
+  {
+    "slug": "devotee's-flesh",
+    "name": "Devotee's Flesh",
+    "element": "Unknown"
+  },
+  {
+    "slug": "diamondclaw",
+    "name": "Diamondclaw",
+    "element": "Unknown"
+  },
+  {
+    "slug": "diggy-duggy",
+    "name": "Diggy Duggy",
+    "element": "Unknown"
+  },
+  {
+    "slug": "diurnus-knight",
+    "name": "Diurnus Knight",
+    "element": "Unknown"
+  },
+  {
+    "slug": "dragon-of-dirge",
+    "name": "Dragon of Dirge",
+    "element": "Unknown"
+  },
+  {
+    "slug": "dreamless",
+    "name": "Dreamless",
+    "element": "Unknown"
+  },
+  {
+    "slug": "dwarf-cassowary",
+    "name": "Dwarf Cassowary",
+    "element": "Unknown"
+  },
+  {
+    "slug": "electro-drake",
+    "name": "Electro Drake",
+    "element": "Unknown"
+  },
+  {
+    "slug": "electro-predator",
+    "name": "Electro Predator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "excarat",
+    "name": "Excarat",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fae-ignis",
+    "name": "Fae Ignis",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fallacy-of-no-return",
+    "name": "Fallacy of No Return",
+    "element": "Unknown"
+  },
+  {
+    "slug": "feilian-beringal",
+    "name": "Feilian Beringal",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fission-junrock",
+    "name": "Fission Junrock",
+    "element": "Unknown"
+  },
+  {
+    "slug": "flautist",
+    "name": "Flautist",
+    "element": "Unknown"
+  },
+  {
+    "slug": "flora-drone",
+    "name": "Flora Drone",
+    "element": "Unknown"
+  },
+  {
+    "slug": "flora-reindeer",
+    "name": "Flora Reindeer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "frostbite-coleoid",
+    "name": "Frostbite Coleoid",
+    "element": "Unknown"
+  },
+  {
+    "slug": "frostscourge-stalker",
+    "name": "Frostscourge Stalker",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fusion-drake",
+    "name": "Fusion Drake",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fusion-dreadmane",
+    "name": "Fusion Dreadmane",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fusion-prism",
+    "name": "Fusion Prism",
+    "element": "Unknown"
+  },
+  {
+    "slug": "fusion-warrior",
+    "name": "Fusion Warrior",
+    "element": "Unknown"
+  },
+  {
+    "slug": "galescourge-stalker",
+    "name": "Galescourge Stalker",
+    "element": "Unknown"
+  },
+  {
+    "slug": "geospider-s4",
+    "name": "Geospider S4",
+    "element": "Unknown"
+  },
+  {
+    "slug": "glacio-drake",
+    "name": "Glacio Drake",
+    "element": "Unknown"
+  },
+  {
+    "slug": "glacio-dreadmane",
+    "name": "Glacio Dreadmane",
+    "element": "Unknown"
+  },
+  {
+    "slug": "glacio-predator",
+    "name": "Glacio Predator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "glacio-prism",
+    "name": "Glacio Prism",
+    "element": "Unknown"
+  },
+  {
+    "slug": "glommoth",
+    "name": "Glommoth",
+    "element": "Unknown"
+  },
+  {
+    "slug": "golden-junrock",
+    "name": "Golden Junrock",
+    "element": "Unknown"
+  },
+  {
+    "slug": "gulpuff",
+    "name": "Gulpuff",
+    "element": "Unknown"
+  },
+  {
+    "slug": "havoc-drake",
+    "name": "Havoc Drake",
+    "element": "Unknown"
+  },
+  {
+    "slug": "havoc-dreadmane",
+    "name": "Havoc Dreadmane",
+    "element": "Unknown"
+  },
+  {
+    "slug": "havoc-prism",
+    "name": "Havoc Prism",
+    "element": "Unknown"
+  },
+  {
+    "slug": "havoc-warrior",
+    "name": "Havoc Warrior",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hecate",
+    "name": "Hecate",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hoartoise",
+    "name": "Hoartoise",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hocus-pocus",
+    "name": "Hocus Pocus",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hoochief",
+    "name": "Hoochief",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hooscamp",
+    "name": "Hooscamp",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hurriclaw",
+    "name": "Hurriclaw",
+    "element": "Unknown"
+  },
+  {
+    "slug": "hyvatia",
+    "name": "Hyvatia",
+    "element": "Unknown"
+  },
+  {
+    "slug": "iceglint-dancer",
+    "name": "Iceglint Dancer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "impermanence-heron",
+    "name": "Impermanence Heron",
+    "element": "Unknown"
+  },
+  {
+    "slug": "inferno-rider",
+    "name": "Inferno Rider",
+    "element": "Unknown"
+  },
+  {
+    "slug": "ironhoof",
+    "name": "Ironhoof",
+    "element": "Unknown"
+  },
+  {
+    "slug": "jué",
+    "name": "Jué",
+    "element": "Unknown"
+  },
+  {
+    "slug": "kerasaur",
+    "name": "Kerasaur",
+    "element": "Unknown"
+  },
+  {
+    "slug": "kronablight",
+    "name": "Kronablight",
+    "element": "Unknown"
+  },
+  {
+    "slug": "la-guardia",
+    "name": "La Guardia",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lady-of-the-sea",
+    "name": "Lady of the Sea",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lampylumen-myriad",
+    "name": "Lampylumen Myriad",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lava-larva",
+    "name": "Lava Larva",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lightcrusher",
+    "name": "Lightcrusher",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lioness-of-glory",
+    "name": "Lioness of Glory",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lorelei",
+    "name": "Lorelei",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lottie-lost",
+    "name": "Lottie Lost",
+    "element": "Unknown"
+  },
+  {
+    "slug": "lumiscale-construct",
+    "name": "Lumiscale Construct",
+    "element": "Unknown"
+  },
+  {
+    "slug": "mech-abomination",
+    "name": "Mech Abomination",
+    "element": "Unknown"
+  },
+  {
+    "slug": "midnight-veil-&-gusts-of-welkin",
+    "name": "Midnight Veil & Gusts of Welkin",
+    "element": "Unknown"
+  },
+  {
+    "slug": "mining-drone",
+    "name": "Mining Drone",
+    "element": "Unknown"
+  },
+  {
+    "slug": "mining-reindeer",
+    "name": "Mining Reindeer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---empyrean-anthem",
+    "name": "Morphable Echo - Empyrean Anthem",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---eternal-radiance",
+    "name": "Morphable Echo - Eternal Radiance",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---frosty-resolve",
+    "name": "Morphable Echo - Frosty Resolve",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---gusts-of-welkin",
+    "name": "Morphable Echo - Gusts of Welkin",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---lingering-tunes",
+    "name": "Morphable Echo - Lingering Tunes",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---midnight-veil",
+    "name": "Morphable Echo - Midnight Veil",
+    "element": "Unknown"
+  },
+  {
+    "slug": "morphable-echo---tidebreaking-courage",
+    "name": "Morphable Echo - Tidebreaking Courage",
+    "element": "Unknown"
+  },
+  {
+    "slug": "mourning-aix",
+    "name": "Mourning Aix",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nameless-explorer",
+    "name": "Nameless Explorer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-aero-predator",
+    "name": "Nightmare: Aero Predator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-baby-roseshroom",
+    "name": "Nightmare: Baby Roseshroom",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-baby-viridblaze-saurian",
+    "name": "Nightmare: Baby Viridblaze Saurian",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-chirpuff",
+    "name": "Nightmare: Chirpuff",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-crownless",
+    "name": "Nightmare: Crownless",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-cyan-feathered-heron",
+    "name": "Nightmare: Cyan-Feathered Heron",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-dwarf-cassowary",
+    "name": "Nightmare: Dwarf Cassowary",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-electro-predator",
+    "name": "Nightmare: Electro Predator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-feilian-beringal",
+    "name": "Nightmare: Feilian Beringal",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-glacio-predator",
+    "name": "Nightmare: Glacio Predator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-gulpuff",
+    "name": "Nightmare: Gulpuff",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-havoc-warrior",
+    "name": "Nightmare: Havoc Warrior",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-hecate",
+    "name": "Nightmare: Hecate",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-impermanence-heron",
+    "name": "Nightmare: Impermanence Heron",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-inferno-rider",
+    "name": "Nightmare: Inferno Rider",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-kelpie",
+    "name": "Nightmare: Kelpie",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-lampylumen-myriad",
+    "name": "Nightmare: Lampylumen Myriad",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-mourning-aix",
+    "name": "Nightmare: Mourning Aix",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-roseshroom",
+    "name": "Nightmare: Roseshroom",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-tambourinist",
+    "name": "Nightmare: Tambourinist",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-tempest-mephis",
+    "name": "Nightmare: Tempest Mephis",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-thundering-mephis",
+    "name": "Nightmare: Thundering Mephis",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-tick-tack",
+    "name": "Nightmare: Tick Tack",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-violet-feathered-heron",
+    "name": "Nightmare: Violet-Feathered Heron",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nightmare:-viridblaze-saurian",
+    "name": "Nightmare: Viridblaze Saurian",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nimbus-wraith",
+    "name": "Nimbus Wraith",
+    "element": "Unknown"
+  },
+  {
+    "slug": "nocturnus-knight",
+    "name": "Nocturnus Knight",
+    "element": "Unknown"
+  },
+  {
+    "slug": "pilgrim's-shell",
+    "name": "Pilgrim's Shell",
+    "element": "Unknown"
+  },
+  {
+    "slug": "questless-knight",
+    "name": "Questless Knight",
+    "element": "Unknown"
+  },
+  {
+    "slug": "rage-against-the-statue",
+    "name": "Rage Against the Statue",
+    "element": "Unknown"
+  },
+  {
+    "slug": "random-echo-item",
+    "name": "Random Echo Item",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reactor-husk",
+    "name": "Reactor Husk",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reminiscence:-denia",
+    "name": "Reminiscence: Denia",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reminiscence:-fenrico",
+    "name": "Reminiscence: Fenrico",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reminiscence:-fleurdelys",
+    "name": "Reminiscence: Fleurdelys",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reminiscence:-kronaclaw",
+    "name": "Reminiscence: Kronaclaw",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reminiscence:-threnodian---leviathan",
+    "name": "Reminiscence: Threnodian - Leviathan",
+    "element": "Unknown"
+  },
+  {
+    "slug": "reminiscence:-threnodian---voidborne-construct",
+    "name": "Reminiscence: Threnodian - Voidborne Construct",
+    "element": "Unknown"
+  },
+  {
+    "slug": "rocksteady-guardian",
+    "name": "Rocksteady Guardian",
+    "element": "Unknown"
+  },
+  {
+    "slug": "roseshroom",
+    "name": "Roseshroom",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sabercat-prowler",
+    "name": "Sabercat Prowler",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sabercat-reaver",
+    "name": "Sabercat Reaver",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sabyr-boar",
+    "name": "Sabyr Boar",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sacerdos",
+    "name": "Sacerdos",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sagittario",
+    "name": "Sagittario",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sentry-construct",
+    "name": "Sentry Construct",
+    "element": "Unknown"
+  },
+  {
+    "slug": "shadow-stepper",
+    "name": "Shadow Stepper",
+    "element": "Unknown"
+  },
+  {
+    "slug": "sigillum",
+    "name": "Sigillum",
+    "element": "Unknown"
+  },
+  {
+    "slug": "snip-snap",
+    "name": "Snip Snap",
+    "element": "Unknown"
+  },
+  {
+    "slug": "spacetrek-explorer",
+    "name": "Spacetrek Explorer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "spearback",
+    "name": "Spearback",
+    "element": "Unknown"
+  },
+  {
+    "slug": "spectro-drake",
+    "name": "Spectro Drake",
+    "element": "Unknown"
+  },
+  {
+    "slug": "spectro-prism",
+    "name": "Spectro Prism",
+    "element": "Unknown"
+  },
+  {
+    "slug": "stonewall-bracer",
+    "name": "Stonewall Bracer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "tambourinist",
+    "name": "Tambourinist",
+    "element": "Unknown"
+  },
+  {
+    "slug": "tempest-mephis",
+    "name": "Tempest Mephis",
+    "element": "Unknown"
+  },
+  {
+    "slug": "the-false-sovereign",
+    "name": "The False Sovereign",
+    "element": "Unknown"
+  },
+  {
+    "slug": "the-lifer",
+    "name": "The Lifer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "thundering-mephis",
+    "name": "Thundering Mephis",
+    "element": "Unknown"
+  },
+  {
+    "slug": "tick-tack",
+    "name": "Tick Tack",
+    "element": "Unknown"
+  },
+  {
+    "slug": "traffic-illuminator",
+    "name": "Traffic Illuminator",
+    "element": "Unknown"
+  },
+  {
+    "slug": "tremor-warrior",
+    "name": "Tremor Warrior",
+    "element": "Unknown"
+  },
+  {
+    "slug": "twin-nova:-collapsar-blade",
+    "name": "Twin Nova: Collapsar Blade",
+    "element": "Unknown"
+  },
+  {
+    "slug": "twin-nova:-nebulous-cannon",
+    "name": "Twin Nova: Nebulous Cannon",
+    "element": "Unknown"
+  },
+  {
+    "slug": "vanguard-junrock",
+    "name": "Vanguard Junrock",
+    "element": "Unknown"
+  },
+  {
+    "slug": "violet-feathered-heron",
+    "name": "Violet-Feathered Heron",
+    "element": "Unknown"
+  },
+  {
+    "slug": "viridblaze-saurian",
+    "name": "Viridblaze Saurian",
+    "element": "Unknown"
+  },
+  {
+    "slug": "vitreum-dancer",
+    "name": "Vitreum Dancer",
+    "element": "Unknown"
+  },
+  {
+    "slug": "voidwing-moth",
+    "name": "Voidwing Moth",
+    "element": "Unknown"
+  },
+  {
+    "slug": "voltscourge-stalker",
+    "name": "Voltscourge Stalker",
+    "element": "Unknown"
+  },
+  {
+    "slug": "whiff-whaff",
+    "name": "Whiff Whaff",
+    "element": "Unknown"
+  },
+  {
+    "slug": "windlash-coleoid",
+    "name": "Windlash Coleoid",
+    "element": "Unknown"
+  },
+  {
+    "slug": "zig-zag",
+    "name": "Zig Zag",
+    "element": "Unknown"
+  },
+  {
+    "slug": "zip-zap",
+    "name": "Zip Zap",
+    "element": "Unknown"
+  }
+]

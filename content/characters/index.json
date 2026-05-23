@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "aalto",
+    "name": "Aalto",
+    "element": "Aero",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "baizhi",
+    "name": "Baizhi",
+    "element": "Glacio",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "calcharo",
+    "name": "Calcharo",
+    "element": "Electro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "camellya",
+    "name": "Camellya",
+    "element": "Havoc",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "cantarella",
+    "name": "Cantarella",
+    "element": "Havoc",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "carlotta",
+    "name": "Carlotta",
+    "element": "Glacio",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "changli",
+    "name": "Changli",
+    "element": "Fusion",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "danjin",
+    "name": "Danjin",
+    "element": "Havoc",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "encore",
+    "name": "Encore",
+    "element": "Fusion",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "jianxin",
+    "name": "Jianxin",
+    "element": "Aero",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "jinhsi",
+    "name": "Jinhsi",
+    "element": "Spectro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "jiyan",
+    "name": "Jiyan",
+    "element": "Aero",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "lingyang",
+    "name": "Lingyang",
+    "element": "Glacio",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "lumi",
+    "name": "Lumi",
+    "element": "Electro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "mortefi",
+    "name": "Mortefi",
+    "element": "Fusion",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "roccia",
+    "name": "Roccia",
+    "element": "Havoc",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "rover",
+    "name": "Rover",
+    "element": "Multiple",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "sanhua",
+    "name": "Sanhua",
+    "element": "Glacio",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "shorekeeper",
+    "name": "Shorekeeper",
+    "element": "Spectro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "taoqi",
+    "name": "Taoqi",
+    "element": "Havoc",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "verina",
+    "name": "Verina",
+    "element": "Spectro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "xiangli-yao",
+    "name": "Xiangli Yao",
+    "element": "Electro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "yangyang",
+    "name": "Yangyang",
+    "element": "Aero",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "yinlin",
+    "name": "Yinlin",
+    "element": "Electro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "yuanwu",
+    "name": "Yuanwu",
+    "element": "Electro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  },
+  {
+    "slug": "zani",
+    "name": "Zani",
+    "element": "Spectro",
+    "rarity": 5,
+    "weaponType": "Unknown"
+  }
+]

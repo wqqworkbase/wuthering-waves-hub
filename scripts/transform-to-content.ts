@@ -14,7 +14,7 @@ interface RawPage {
 function extractCharacterFM(raw: RawPage) {
   const ib = raw.infobox
   return {
-    slug: raw.title.toLowerCase().replace(/\s+/g, '-'),
+    slug: raw.title.toLowerCase().replace(/[\/\s]+/g, '-'),
     name: raw.title,
     element: ib['Element'] ?? ib['Attribute'] ?? 'Unknown',
     weaponType: ib['Weapon'] ?? ib['Weapon Type'] ?? 'Unknown',
@@ -32,7 +32,7 @@ function extractCharacterFM(raw: RawPage) {
 function extractWeaponFM(raw: RawPage) {
   const ib = raw.infobox
   return {
-    slug: raw.title.toLowerCase().replace(/\s+/g, '-'),
+    slug: raw.title.toLowerCase().replace(/[\/\s]+/g, '-'),
     name: raw.title,
     type: ib['Type'] ?? ib['Weapon Type'] ?? 'Unknown',
     rarity: parseInt(ib['Rarity']?.replace(/[^0-9]/g, '') ?? '4') || 4,
@@ -47,7 +47,7 @@ function extractWeaponFM(raw: RawPage) {
 function extractEchoFM(raw: RawPage) {
   const ib = raw.infobox
   return {
-    slug: raw.title.replace('/Echo', '').toLowerCase().replace(/\s+/g, '-'),
+    slug: raw.title.replace('/Echo', '').toLowerCase().replace(/[\/\s]+/g, '-'),
     name: raw.title.replace('/Echo', ''),
     cost: (parseInt(ib['Cost']?.replace(/[^0-9]/g, '') ?? '1') || 1) as 1 | 3 | 4,
     element: ib['Element'] ?? ib['Attribute'] ?? 'Unknown',
@@ -61,7 +61,7 @@ function extractEchoFM(raw: RawPage) {
 function extractQuestFM(raw: RawPage) {
   const ib = raw.infobox
   return {
-    slug: raw.title.toLowerCase().replace(/\s+/g, '-'),
+    slug: raw.title.toLowerCase().replace(/[\/\s]+/g, '-'),
     name: raw.title,
     type: (ib['Type'] ?? 'Side') as 'Main' | 'Companion' | 'Side' | 'Exploration' | 'Daily',
     chapter: ib['Chapter'] ?? '',

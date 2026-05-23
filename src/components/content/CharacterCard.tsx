@@ -4,8 +4,8 @@ import Card from '@/components/ui/Card'
 import Badge from '@/components/ui/Badge'
 
 export default function CharacterCard({ char }: { char: CharacterFrontmatter }) {
-  const elColors = ELEMENT_COLORS[char.element]
-  const rColors = RARITY_COLORS[char.rarity]
+  const elColors = ELEMENT_COLORS[char.element] ?? { gradient: 'from-slate-100 to-slate-50', bg: '#f1f5f9', text: '#475569', border: '#cbd5e1' }
+  const rColors = RARITY_COLORS[char.rarity] ?? { star: 'text-gray-400', badge: 'bg-gray-100 text-gray-600' }
 
   return (
     <Card href={`/characters/${char.slug}`}>

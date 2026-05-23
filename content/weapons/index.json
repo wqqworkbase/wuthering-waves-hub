@@ -1,0 +1,657 @@
+[
+  {
+    "slug": "abyss-surges",
+    "name": "Abyss Surges",
+    "rarity": 4
+  },
+  {
+    "slug": "advanced-energy-core",
+    "name": "Advanced Energy Core",
+    "rarity": 4
+  },
+  {
+    "slug": "aether-strike",
+    "name": "Aether Strike",
+    "rarity": 4
+  },
+  {
+    "slug": "ages-of-harvest",
+    "name": "Ages of Harvest",
+    "rarity": 4
+  },
+  {
+    "slug": "amity-accord",
+    "name": "Amity Accord",
+    "rarity": 4
+  },
+  {
+    "slug": "augment",
+    "name": "Augment",
+    "rarity": 4
+  },
+  {
+    "slug": "aureate-zenith",
+    "name": "Aureate Zenith",
+    "rarity": 4
+  },
+  {
+    "slug": "autumntrace",
+    "name": "Autumntrace",
+    "rarity": 4
+  },
+  {
+    "slug": "basic-energy-core",
+    "name": "Basic Energy Core",
+    "rarity": 4
+  },
+  {
+    "slug": "beguiling-melody",
+    "name": "Beguiling Melody",
+    "rarity": 4
+  },
+  {
+    "slug": "blazing-brilliance",
+    "name": "Blazing Brilliance",
+    "rarity": 4
+  },
+  {
+    "slug": "blazing-justice",
+    "name": "Blazing Justice",
+    "rarity": 4
+  },
+  {
+    "slug": "bloodpact's-pledge",
+    "name": "Bloodpact's Pledge",
+    "rarity": 4
+  },
+  {
+    "slug": "boson-astrolabe",
+    "name": "Boson Astrolabe",
+    "rarity": 4
+  },
+  {
+    "slug": "broadblade-of-night",
+    "name": "Broadblade of Night",
+    "rarity": 4
+  },
+  {
+    "slug": "broadblade-of-voyager",
+    "name": "Broadblade of Voyager",
+    "rarity": 4
+  },
+  {
+    "slug": "broadblade41",
+    "name": "Broadblade41",
+    "rarity": 4
+  },
+  {
+    "slug": "cadenza",
+    "name": "Cadenza",
+    "rarity": 4
+  },
+  {
+    "slug": "call-of-the-abyss",
+    "name": "Call of the Abyss",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapon-exp-material",
+    "name": "Category:Weapon EXP Material",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapon-types",
+    "name": "Category:Weapon Types",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-ascends-with",
+    "name": "Category:Weapons by Ascends With",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-obtainability",
+    "name": "Category:Weapons by Obtainability",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-passive-effect",
+    "name": "Category:Weapons by Passive Effect",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-rarity",
+    "name": "Category:Weapons by Rarity",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-release-date",
+    "name": "Category:Weapons by Release Date",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-substat",
+    "name": "Category:Weapons by Substat",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-type-and-rarity",
+    "name": "Category:Weapons by Type and Rarity",
+    "rarity": 4
+  },
+  {
+    "slug": "category:weapons-by-type",
+    "name": "Category:Weapons by Type",
+    "rarity": 4
+  },
+  {
+    "slug": "celestial-spiral",
+    "name": "Celestial Spiral",
+    "rarity": 4
+  },
+  {
+    "slug": "comet-flare",
+    "name": "Comet Flare",
+    "rarity": 4
+  },
+  {
+    "slug": "commando-of-conviction",
+    "name": "Commando of Conviction",
+    "rarity": 4
+  },
+  {
+    "slug": "cosmic-ripples",
+    "name": "Cosmic Ripples",
+    "rarity": 4
+  },
+  {
+    "slug": "dauntless-evernight",
+    "name": "Dauntless Evernight",
+    "rarity": 4
+  },
+  {
+    "slug": "daybreaker's-spine",
+    "name": "Daybreaker's Spine",
+    "rarity": 4
+  },
+  {
+    "slug": "defier's-thorn",
+    "name": "Defier's Thorn",
+    "rarity": 4
+  },
+  {
+    "slug": "discord",
+    "name": "Discord",
+    "rarity": 4
+  },
+  {
+    "slug": "emerald-of-genesis",
+    "name": "Emerald of Genesis",
+    "rarity": 4
+  },
+  {
+    "slug": "emerald-sentence",
+    "name": "Emerald Sentence",
+    "rarity": 4
+  },
+  {
+    "slug": "endless-collapse",
+    "name": "Endless Collapse",
+    "rarity": 4
+  },
+  {
+    "slug": "everbright-polestar",
+    "name": "Everbright Polestar",
+    "rarity": 4
+  },
+  {
+    "slug": "fables-of-wisdom",
+    "name": "Fables of Wisdom",
+    "rarity": 4
+  },
+  {
+    "slug": "feather-edge",
+    "name": "Feather Edge",
+    "rarity": 4
+  },
+  {
+    "slug": "forged-dwarf-star",
+    "name": "Forged Dwarf Star",
+    "rarity": 4
+  },
+  {
+    "slug": "frostburn",
+    "name": "Frostburn",
+    "rarity": 4
+  },
+  {
+    "slug": "fusion-accretion",
+    "name": "Fusion Accretion",
+    "rarity": 4
+  },
+  {
+    "slug": "gauntlets-of-night",
+    "name": "Gauntlets of Night",
+    "rarity": 4
+  },
+  {
+    "slug": "gauntlets-of-voyager",
+    "name": "Gauntlets of Voyager",
+    "rarity": 4
+  },
+  {
+    "slug": "gauntlets21d",
+    "name": "Gauntlets21D",
+    "rarity": 4
+  },
+  {
+    "slug": "guardian-broadblade",
+    "name": "Guardian Broadblade",
+    "rarity": 4
+  },
+  {
+    "slug": "guardian-gauntlets",
+    "name": "Guardian Gauntlets",
+    "rarity": 4
+  },
+  {
+    "slug": "guardian-pistols",
+    "name": "Guardian Pistols",
+    "rarity": 4
+  },
+  {
+    "slug": "guardian-rectifier",
+    "name": "Guardian Rectifier",
+    "rarity": 4
+  },
+  {
+    "slug": "guardian-sword",
+    "name": "Guardian Sword",
+    "rarity": 4
+  },
+  {
+    "slug": "helios-cleaver",
+    "name": "Helios Cleaver",
+    "rarity": 4
+  },
+  {
+    "slug": "hollow-mirage",
+    "name": "Hollow Mirage",
+    "rarity": 4
+  },
+  {
+    "slug": "jinzhou-keeper",
+    "name": "Jinzhou Keeper",
+    "rarity": 4
+  },
+  {
+    "slug": "kumokiri",
+    "name": "Kumokiri",
+    "rarity": 4
+  },
+  {
+    "slug": "laser-shearer",
+    "name": "Laser Shearer",
+    "rarity": 4
+  },
+  {
+    "slug": "legend-of-drunken-hero",
+    "name": "Legend of Drunken Hero",
+    "rarity": 4
+  },
+  {
+    "slug": "lethean-elegy",
+    "name": "Lethean Elegy",
+    "rarity": 4
+  },
+  {
+    "slug": "lumingloss",
+    "name": "Lumingloss",
+    "rarity": 4
+  },
+  {
+    "slug": "luminous-hymn",
+    "name": "Luminous Hymn",
+    "rarity": 4
+  },
+  {
+    "slug": "lunar-cutter",
+    "name": "Lunar Cutter",
+    "rarity": 4
+  },
+  {
+    "slug": "lustrous-razor",
+    "name": "Lustrous Razor",
+    "rarity": 4
+  },
+  {
+    "slug": "lux-&-umbra",
+    "name": "Lux & Umbra",
+    "rarity": 4
+  },
+  {
+    "slug": "marcato",
+    "name": "Marcato",
+    "rarity": 4
+  },
+  {
+    "slug": "meditations-on-mercy",
+    "name": "Meditations on Mercy",
+    "rarity": 4
+  },
+  {
+    "slug": "medium-energy-core",
+    "name": "Medium Energy Core",
+    "rarity": 4
+  },
+  {
+    "slug": "moongazer's-sigil",
+    "name": "Moongazer's Sigil",
+    "rarity": 4
+  },
+  {
+    "slug": "novaburst",
+    "name": "Novaburst",
+    "rarity": 4
+  },
+  {
+    "slug": "ocean's-gift",
+    "name": "Ocean's Gift",
+    "rarity": 4
+  },
+  {
+    "slug": "originite:-type-i",
+    "name": "Originite: Type I",
+    "rarity": 4
+  },
+  {
+    "slug": "originite:-type-ii",
+    "name": "Originite: Type II",
+    "rarity": 4
+  },
+  {
+    "slug": "originite:-type-iii",
+    "name": "Originite: Type III",
+    "rarity": 4
+  },
+  {
+    "slug": "originite:-type-iv",
+    "name": "Originite: Type IV",
+    "rarity": 4
+  },
+  {
+    "slug": "originite:-type-v",
+    "name": "Originite: Type V",
+    "rarity": 4
+  },
+  {
+    "slug": "overture",
+    "name": "Overture",
+    "rarity": 4
+  },
+  {
+    "slug": "phasic-homogenizer",
+    "name": "Phasic Homogenizer",
+    "rarity": 4
+  },
+  {
+    "slug": "pistols-of-night",
+    "name": "Pistols of Night",
+    "rarity": 4
+  },
+  {
+    "slug": "pistols-of-voyager",
+    "name": "Pistols of Voyager",
+    "rarity": 4
+  },
+  {
+    "slug": "pistols26",
+    "name": "Pistols26",
+    "rarity": 4
+  },
+  {
+    "slug": "premium-energy-core",
+    "name": "Premium Energy Core",
+    "rarity": 4
+  },
+  {
+    "slug": "pulsation-bracer",
+    "name": "Pulsation Bracer",
+    "rarity": 4
+  },
+  {
+    "slug": "radiance-cleaver",
+    "name": "Radiance Cleaver",
+    "rarity": 4
+  },
+  {
+    "slug": "radiant-dawn",
+    "name": "Radiant Dawn",
+    "rarity": 4
+  },
+  {
+    "slug": "rectifier-of-night",
+    "name": "Rectifier of Night",
+    "rarity": 4
+  },
+  {
+    "slug": "rectifier-of-voyager",
+    "name": "Rectifier of Voyager",
+    "rarity": 4
+  },
+  {
+    "slug": "rectifier25",
+    "name": "Rectifier25",
+    "rarity": 4
+  },
+  {
+    "slug": "red-spring",
+    "name": "Red Spring",
+    "rarity": 4
+  },
+  {
+    "slug": "relativistic-jet",
+    "name": "Relativistic Jet",
+    "rarity": 4
+  },
+  {
+    "slug": "rime-draped-sprouts",
+    "name": "Rime-Draped Sprouts",
+    "rarity": 4
+  },
+  {
+    "slug": "romance-in-farewell",
+    "name": "Romance in Farewell",
+    "rarity": 4
+  },
+  {
+    "slug": "solar-flame",
+    "name": "Solar Flame",
+    "rarity": 4
+  },
+  {
+    "slug": "solsworn-ciphers",
+    "name": "Solsworn Ciphers",
+    "rarity": 4
+  },
+  {
+    "slug": "somnoire-anchor",
+    "name": "Somnoire Anchor",
+    "rarity": 4
+  },
+  {
+    "slug": "spectrum-blaster",
+    "name": "Spectrum Blaster",
+    "rarity": 4
+  },
+  {
+    "slug": "starfield-calibrator",
+    "name": "Starfield Calibrator",
+    "rarity": 4
+  },
+  {
+    "slug": "static-mist",
+    "name": "Static Mist",
+    "rarity": 4
+  },
+  {
+    "slug": "stellar-symphony",
+    "name": "Stellar Symphony",
+    "rarity": 4
+  },
+  {
+    "slug": "stonard",
+    "name": "Stonard",
+    "rarity": 4
+  },
+  {
+    "slug": "stringmaster",
+    "name": "Stringmaster",
+    "rarity": 4
+  },
+  {
+    "slug": "sword-of-night",
+    "name": "Sword of Night",
+    "rarity": 4
+  },
+  {
+    "slug": "sword-of-voyager",
+    "name": "Sword of Voyager",
+    "rarity": 4
+  },
+  {
+    "slug": "sword18",
+    "name": "Sword18",
+    "rarity": 4
+  },
+  {
+    "slug": "the-last-dance",
+    "name": "The Last Dance",
+    "rarity": 4
+  },
+  {
+    "slug": "thunderbolt",
+    "name": "Thunderbolt",
+    "rarity": 4
+  },
+  {
+    "slug": "thunderflare-dominion",
+    "name": "Thunderflare Dominion",
+    "rarity": 4
+  },
+  {
+    "slug": "tragicomedy",
+    "name": "Tragicomedy",
+    "rarity": 4
+  },
+  {
+    "slug": "training-broadblade",
+    "name": "Training Broadblade",
+    "rarity": 4
+  },
+  {
+    "slug": "training-gauntlets",
+    "name": "Training Gauntlets",
+    "rarity": 4
+  },
+  {
+    "slug": "training-pistols",
+    "name": "Training Pistols",
+    "rarity": 4
+  },
+  {
+    "slug": "training-rectifier",
+    "name": "Training Rectifier",
+    "rarity": 4
+  },
+  {
+    "slug": "training-sword",
+    "name": "Training Sword",
+    "rarity": 4
+  },
+  {
+    "slug": "tyro-broadblade",
+    "name": "Tyro Broadblade",
+    "rarity": 4
+  },
+  {
+    "slug": "tyro-gauntlets",
+    "name": "Tyro Gauntlets",
+    "rarity": 4
+  },
+  {
+    "slug": "tyro-pistols",
+    "name": "Tyro Pistols",
+    "rarity": 4
+  },
+  {
+    "slug": "tyro-rectifier",
+    "name": "Tyro Rectifier",
+    "rarity": 4
+  },
+  {
+    "slug": "tyro-sword",
+    "name": "Tyro Sword",
+    "rarity": 4
+  },
+  {
+    "slug": "undying-flame",
+    "name": "Undying Flame",
+    "rarity": 4
+  },
+  {
+    "slug": "unflickering-valor",
+    "name": "Unflickering Valor",
+    "rarity": 4
+  },
+  {
+    "slug": "variation",
+    "name": "Variation",
+    "rarity": 4
+  },
+  {
+    "slug": "verdant-summit",
+    "name": "Verdant Summit",
+    "rarity": 4
+  },
+  {
+    "slug": "verity's-handle",
+    "name": "Verity's Handle",
+    "rarity": 4
+  },
+  {
+    "slug": "waltz-in-masquerade",
+    "name": "Waltz in Masquerade",
+    "rarity": 4
+  },
+  {
+    "slug": "waning-redshift",
+    "name": "Waning Redshift",
+    "rarity": 4
+  },
+  {
+    "slug": "weapon-exp-material",
+    "name": "Weapon EXP Material",
+    "rarity": 4
+  },
+  {
+    "slug": "weapon-series",
+    "name": "Weapon Series",
+    "rarity": 4
+  },
+  {
+    "slug": "whispers-of-sirens",
+    "name": "Whispers of Sirens",
+    "rarity": 4
+  },
+  {
+    "slug": "wildfire-mark",
+    "name": "Wildfire Mark",
+    "rarity": 4
+  },
+  {
+    "slug": "woodland-aria",
+    "name": "Woodland Aria",
+    "rarity": 4
+  }
+]

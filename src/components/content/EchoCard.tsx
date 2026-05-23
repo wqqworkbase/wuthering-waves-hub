@@ -4,7 +4,7 @@ import Card from '@/components/ui/Card'
 import Badge from '@/components/ui/Badge'
 
 export default function EchoCard({ echo }: { echo: EchoFrontmatter }) {
-  const elColors = ELEMENT_COLORS[echo.element]
+  const elColors = ELEMENT_COLORS[echo.element] ?? { gradient: 'from-slate-100 to-slate-50', bg: '#f1f5f9', text: '#475569', border: '#cbd5e1' }
 
   return (
     <Card href={`/echoes/${echo.slug}`}>

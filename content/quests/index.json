@@ -1,0 +1,1786 @@
+[
+  {
+    "slug": "a-blaze-in-the-dark",
+    "name": "A Blaze in the Dark"
+  },
+  {
+    "slug": "a-brief-respite",
+    "name": "A Brief Respite"
+  },
+  {
+    "slug": "a-fleeting-night's-dream",
+    "name": "A Fleeting Night's Dream"
+  },
+  {
+    "slug": "a-free-meal?",
+    "name": "A Free Meal?"
+  },
+  {
+    "slug": "a-miko's-preferences",
+    "name": "A Miko's Preferences"
+  },
+  {
+    "slug": "a-new-companion",
+    "name": "A New Companion"
+  },
+  {
+    "slug": "a-perfect-day-for-flying",
+    "name": "A Perfect Day for Flying"
+  },
+  {
+    "slug": "a-quest-of-wits---i",
+    "name": "A Quest of Wits - I"
+  },
+  {
+    "slug": "a-quest-of-wits---ii",
+    "name": "A Quest of Wits - II"
+  },
+  {
+    "slug": "a-quest-of-wits---iii",
+    "name": "A Quest of Wits - III"
+  },
+  {
+    "slug": "a-soliskin-and-its-mysterious-friend",
+    "name": "A Soliskin and Its Mysterious Friend"
+  },
+  {
+    "slug": "a-stranger-in-a-strange-land",
+    "name": "A Stranger in a Strange Land"
+  },
+  {
+    "slug": "a-taste-of-everything",
+    "name": "A Taste of Everything"
+  },
+  {
+    "slug": "a-true-arena-champion",
+    "name": "A True Arena Champion"
+  },
+  {
+    "slug": "a-zephyr-kissed-journey-to-you-(quest)",
+    "name": "A Zephyr-Kissed Journey to You (Quest)"
+  },
+  {
+    "slug": "ace-salesman:-i",
+    "name": "Ace Salesman: I"
+  },
+  {
+    "slug": "ace-salesman:-ii",
+    "name": "Ace Salesman: II"
+  },
+  {
+    "slug": "ace-salesman:-iii",
+    "name": "Ace Salesman: III"
+  },
+  {
+    "slug": "ace-salesman:-iv",
+    "name": "Ace Salesman: IV"
+  },
+  {
+    "slug": "advance-toward-the-future-from-today",
+    "name": "Advance toward the Future from Today"
+  },
+  {
+    "slug": "all-out!-towards-the-peaks-of-prestige-(quest)",
+    "name": "All Out! Towards the Peaks of Prestige (Quest)"
+  },
+  {
+    "slug": "all-that-sunlight-touches",
+    "name": "All That Sunlight Touches"
+  },
+  {
+    "slug": "alloy-smelt-(quest)",
+    "name": "Alloy Smelt (Quest)"
+  },
+  {
+    "slug": "alone-in-the-abyss",
+    "name": "Alone in the Abyss"
+  },
+  {
+    "slug": "although-colors-have-no-form-(quest)",
+    "name": "Although Colors Have No Form (Quest)"
+  },
+  {
+    "slug": "although-colors-have-no-form:-epilogue",
+    "name": "Although Colors Have No Form: Epilogue"
+  },
+  {
+    "slug": "amidst-the-stars-(quest)",
+    "name": "Amidst the Stars (Quest)"
+  },
+  {
+    "slug": "among-the-shoals-and-islands",
+    "name": "Among the Shoals and Islands"
+  },
+  {
+    "slug": "answers-only-the-wind-knows",
+    "name": "Answers Only the Wind Knows"
+  },
+  {
+    "slug": "ashinohara's-legendary-miko",
+    "name": "Ashinohara's Legendary Miko"
+  },
+  {
+    "slug": "avinoleum-footsteps",
+    "name": "Avinoleum Footsteps"
+  },
+  {
+    "slug": "banners-never-fall-(quest)",
+    "name": "Banners Never Fall (Quest)"
+  },
+  {
+    "slug": "beneath-a-melting-night-sky",
+    "name": "Beneath a Melting Night Sky"
+  },
+  {
+    "slug": "beyond-the-shore's-end",
+    "name": "Beyond the Shore's End"
+  },
+  {
+    "slug": "beyond-the-waves-(quest)",
+    "name": "Beyond the Waves (Quest)"
+  },
+  {
+    "slug": "beyond-the-waves-(quest-2)",
+    "name": "Beyond the Waves (Quest 2)"
+  },
+  {
+    "slug": "beyond-the-waves-2025-09-25-story",
+    "name": "Beyond the Waves/2025-09-25/Story"
+  },
+  {
+    "slug": "beyond-the-waves-2026-01-01-story",
+    "name": "Beyond the Waves/2026-01-01/Story"
+  },
+  {
+    "slug": "blessed-be-the-moon",
+    "name": "Blessed Be the Moon"
+  },
+  {
+    "slug": "boundary-of-deduction",
+    "name": "Boundary of Deduction"
+  },
+  {
+    "slug": "boundary-of-yellow-and-white",
+    "name": "Boundary Of Yellow And White"
+  },
+  {
+    "slug": "bread-and-holy-rituals",
+    "name": "Bread and Holy Rituals"
+  },
+  {
+    "slug": "broken-dimmr-heart",
+    "name": "Broken Dimmr Heart"
+  },
+  {
+    "slug": "bucket-list",
+    "name": "Bucket List"
+  },
+  {
+    "slug": "burning-jade",
+    "name": "Burning Jade"
+  },
+  {
+    "slug": "by-moon's-fated-light",
+    "name": "By Moon's Fated Light"
+  },
+  {
+    "slug": "by-sun's-burning-hand",
+    "name": "By Sun's Burning Hand"
+  },
+  {
+    "slug": "camp-raid",
+    "name": "Camp Raid"
+  },
+  {
+    "slug": "carnival-in-slumberland",
+    "name": "Carnival in Slumberland"
+  },
+  {
+    "slug": "cat-finding-master",
+    "name": "Cat-Finding Master"
+  },
+  {
+    "slug": "category:meta-quests",
+    "name": "Category:Meta Quests"
+  },
+  {
+    "slug": "category:quest-types",
+    "name": "Category:Quest Types"
+  },
+  {
+    "slug": "category:quests-by-location",
+    "name": "Category:Quests by Location"
+  },
+  {
+    "slug": "category:quests-by-rewards",
+    "name": "Category:Quests by Rewards"
+  },
+  {
+    "slug": "category:quests-by-type",
+    "name": "Category:Quests by Type"
+  },
+  {
+    "slug": "cause-to-fight-for",
+    "name": "Cause to Fight for"
+  },
+  {
+    "slug": "cerulean-echoes-adrift-in-the-winds",
+    "name": "Cerulean Echoes Adrift in the Winds"
+  },
+  {
+    "slug": "cerulean-echoes-adrift-in-the-winds:-epilogue",
+    "name": "Cerulean Echoes Adrift in the Winds: Epilogue"
+  },
+  {
+    "slug": "cerulean-echoes-adrift-in-the-winds:-part-i",
+    "name": "Cerulean Echoes Adrift in the Winds: Part I"
+  },
+  {
+    "slug": "cerulean-echoes-adrift-in-the-winds:-part-ii",
+    "name": "Cerulean Echoes Adrift in the Winds: Part II"
+  },
+  {
+    "slug": "chasing-the-moon,-here-and-now",
+    "name": "Chasing the Moon, Here and Now"
+  },
+  {
+    "slug": "clashing-blades",
+    "name": "Clashing Blades"
+  },
+  {
+    "slug": "companionship",
+    "name": "Companionship"
+  },
+  {
+    "slug": "crosstalk",
+    "name": "Crosstalk"
+  },
+  {
+    "slug": "crownless?",
+    "name": "Crownless?"
+  },
+  {
+    "slug": "dance-dance-chelonian!",
+    "name": "Dance Dance Chelonian!"
+  },
+  {
+    "slug": "danger!-explosive!",
+    "name": "Danger! Explosive!"
+  },
+  {
+    "slug": "dark-flames-in-silence",
+    "name": "Dark Flames in Silence"
+  },
+  {
+    "slug": "data-overdash",
+    "name": "Data Overdash"
+  },
+  {
+    "slug": "dawn-breaks-on-dark-tides",
+    "name": "Dawn Breaks on Dark Tides"
+  },
+  {
+    "slug": "dawn-of-snowstorm",
+    "name": "Dawn of Snowstorm"
+  },
+  {
+    "slug": "daybreak-at-last",
+    "name": "Daybreak at Last"
+  },
+  {
+    "slug": "de-hoochief",
+    "name": "De-Hoochief"
+  },
+  {
+    "slug": "deep-sea-survey-(quest)",
+    "name": "Deep Sea Survey (Quest)"
+  },
+  {
+    "slug": "defeat-the-exiles",
+    "name": "Defeat the Exiles"
+  },
+  {
+    "slug": "defeat-the-tds",
+    "name": "Defeat the TDs"
+  },
+  {
+    "slug": "do-echoids-dream-of-electric-sheep?-(quest)",
+    "name": "Do Echoids Dream of Electric Sheep? (Quest)"
+  },
+  {
+    "slug": "do-echoids-dream-of-electric-sheep?:-epilogue",
+    "name": "Do Echoids Dream of Electric Sheep?: Epilogue"
+  },
+  {
+    "slug": "dream-contagion",
+    "name": "Dream Contagion"
+  },
+  {
+    "slug": "dream-of-a-rusted-sword",
+    "name": "Dream Of A Rusted Sword"
+  },
+  {
+    "slug": "dream-patrol-i",
+    "name": "Dream Patrol I"
+  },
+  {
+    "slug": "dream-patrol-ii",
+    "name": "Dream Patrol II"
+  },
+  {
+    "slug": "dream-patrol:-finale",
+    "name": "Dream Patrol: Finale"
+  },
+  {
+    "slug": "dream-syndrome",
+    "name": "Dream Syndrome"
+  },
+  {
+    "slug": "dreamcatchers-in-the-secret-gardens",
+    "name": "Dreamcatchers in the Secret Gardens"
+  },
+  {
+    "slug": "dreaming-deep:-solaris-film-festival",
+    "name": "Dreaming Deep: Solaris Film Festival"
+  },
+  {
+    "slug": "dreamscape-odyssey:-a-study-in-snow",
+    "name": "Dreamscape Odyssey: A Study in Snow"
+  },
+  {
+    "slug": "dreamscape-odyssey:-against-all-odds",
+    "name": "Dreamscape Odyssey: Against All Odds"
+  },
+  {
+    "slug": "dreamscape-odyssey:-blooming-reverie",
+    "name": "Dreamscape Odyssey: Blooming Reverie"
+  },
+  {
+    "slug": "dreamscape-odyssey:-little-warrior's-stage",
+    "name": "Dreamscape Odyssey: Little Warrior's Stage"
+  },
+  {
+    "slug": "dreamscape-odyssey:-neverending-inferno",
+    "name": "Dreamscape Odyssey: Neverending Inferno"
+  },
+  {
+    "slug": "dreamscape-odyssey:-the-mountain-and-six-credits",
+    "name": "Dreamscape Odyssey: The Mountain and Six Credits"
+  },
+  {
+    "slug": "dreamweaver's-ascent",
+    "name": "Dreamweaver's Ascent"
+  },
+  {
+    "slug": "duel-of-destiny",
+    "name": "Duel of Destiny"
+  },
+  {
+    "slug": "echoing-marche",
+    "name": "Echoing Marche"
+  },
+  {
+    "slug": "encore's-steaming-adventure!",
+    "name": "Encore's Steaming Adventure!"
+  },
+  {
+    "slug": "eradicating-evil-i",
+    "name": "Eradicating Evil I"
+  },
+  {
+    "slug": "eradicating-evil-ii",
+    "name": "Eradicating Evil II"
+  },
+  {
+    "slug": "event-quest",
+    "name": "Event Quest"
+  },
+  {
+    "slug": "every-flavor-bell-less-crab-challenge",
+    "name": "Every Flavor Bell-less Crab Challenge"
+  },
+  {
+    "slug": "explosive-spear-tip-testing-challenge",
+    "name": "Explosive Spear Tip Testing Challenge"
+  },
+  {
+    "slug": "fairy-tale's-finale-(quest)",
+    "name": "Fairy Tale's Finale (Quest)"
+  },
+  {
+    "slug": "fairy-tale's-finale:-epilogue",
+    "name": "Fairy Tale's Finale: Epilogue"
+  },
+  {
+    "slug": "fantasies-of-the-thousand-gateways-(quest)",
+    "name": "Fantasies of the Thousand Gateways (Quest)"
+  },
+  {
+    "slug": "fantastic-ta-das-and-where-to-find-them",
+    "name": "Fantastic Ta-das and Where to Find Them"
+  },
+  {
+    "slug": "farewell!-let's-overdash!",
+    "name": "Farewell! Let's Overdash!"
+  },
+  {
+    "slug": "festival-preparations-ii",
+    "name": "Festival Preparations II"
+  },
+  {
+    "slug": "festival-preparations-iii",
+    "name": "Festival Preparations III"
+  },
+  {
+    "slug": "find-me-the-tard-es",
+    "name": "Find Me the TARD-Es"
+  },
+  {
+    "slug": "first-encounter-with-yi'hu",
+    "name": "First Encounter with Yi'hu"
+  },
+  {
+    "slug": "first-resonance",
+    "name": "First Resonance"
+  },
+  {
+    "slug": "first-trial",
+    "name": "First Trial"
+  },
+  {
+    "slug": "flames-in-the-deep",
+    "name": "Flames in the Deep"
+  },
+  {
+    "slug": "flames-of-heart",
+    "name": "Flames of Heart"
+  },
+  {
+    "slug": "flowing-starlight-in-the-iris",
+    "name": "Flowing Starlight in the Iris"
+  },
+  {
+    "slug": "forking-paths-among-the-stars",
+    "name": "Forking Paths Among the Stars"
+  },
+  {
+    "slug": "from-the-echoes-of-destruction",
+    "name": "From the Echoes of Destruction"
+  },
+  {
+    "slug": "get-ready!-let's-overdash!",
+    "name": "Get Ready! Let's Overdash!"
+  },
+  {
+    "slug": "gladiator-training",
+    "name": "Gladiator Training"
+  },
+  {
+    "slug": "glorious-loong's-pearl",
+    "name": "Glorious Loong's Pearl"
+  },
+  {
+    "slug": "glorious-loong's-pearl:-the-last-rite",
+    "name": "Glorious Loong's Pearl: The Last Rite"
+  },
+  {
+    "slug": "go-get-some-fish",
+    "name": "Go Get Some Fish"
+  },
+  {
+    "slug": "gold-suspended-in-shadows",
+    "name": "Gold Suspended in Shadows"
+  },
+  {
+    "slug": "golden-insect",
+    "name": "Golden Insect"
+  },
+  {
+    "slug": "graduation-trip",
+    "name": "Graduation Trip"
+  },
+  {
+    "slug": "grand-warstorm",
+    "name": "Grand Warstorm"
+  },
+  {
+    "slug": "herb-expeditioner:-i",
+    "name": "Herb Expeditioner: I"
+  },
+  {
+    "slug": "herb-expeditioner:-ii",
+    "name": "Herb Expeditioner: II"
+  },
+  {
+    "slug": "herb-expeditioner:-iii",
+    "name": "Herb Expeditioner: III"
+  },
+  {
+    "slug": "herb-expeditioner:-iv",
+    "name": "Herb Expeditioner: IV"
+  },
+  {
+    "slug": "hero-of-the-leap",
+    "name": "Hero of the Leap"
+  },
+  {
+    "slug": "hidden-between-the-waves",
+    "name": "Hidden Between the Waves"
+  },
+  {
+    "slug": "hidden-dangers-in-peaceful-life",
+    "name": "Hidden Dangers in Peaceful Life"
+  },
+  {
+    "slug": "honorary-chef:-taste-of-memories",
+    "name": "Honorary Chef: Taste of Memories"
+  },
+  {
+    "slug": "hooked-on-trouble",
+    "name": "Hooked on Trouble"
+  },
+  {
+    "slug": "hymn-of-the-sea-of-clouds:-rainbow",
+    "name": "Hymn of the Sea of Clouds: Rainbow"
+  },
+  {
+    "slug": "hymn-of-the-sea-of-clouds:-storm",
+    "name": "Hymn of the Sea of Clouds: Storm"
+  },
+  {
+    "slug": "i-alone-survived",
+    "name": "I Alone Survived"
+  },
+  {
+    "slug": "if-on-a-rainy-night-a-family",
+    "name": "If On a Rainy Night a Family"
+  },
+  {
+    "slug": "if-you-gaze-into-the-abyss-of-dreams-(quest)",
+    "name": "If You Gaze Into the Abyss of Dreams (Quest)"
+  },
+  {
+    "slug": "if-you-gaze-into-the-abyss-of-dreams:-epilogue",
+    "name": "If You Gaze Into the Abyss of Dreams: Epilogue"
+  },
+  {
+    "slug": "immortal-blaze",
+    "name": "Immortal Blaze"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-i",
+    "name": "In the Name of Chivalry I"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-ii",
+    "name": "In the Name of Chivalry II"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-iii",
+    "name": "In the Name of Chivalry III"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-iv",
+    "name": "In the Name of Chivalry IV"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-v",
+    "name": "In the Name of Chivalry V"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-vi",
+    "name": "In the Name of Chivalry VI"
+  },
+  {
+    "slug": "in-the-name-of-chivalry-vii",
+    "name": "In the Name of Chivalry VII"
+  },
+  {
+    "slug": "infinite-battle-simulation-(quest)",
+    "name": "Infinite Battle Simulation (Quest)"
+  },
+  {
+    "slug": "into-the-battle-simulation!",
+    "name": "Into the Battle Simulation!"
+  },
+  {
+    "slug": "into-the-land-of-paradox!-(quest)",
+    "name": "Into the Land of Paradox! (Quest)"
+  },
+  {
+    "slug": "investigate-the-theft-of-camp-supplies",
+    "name": "Investigate the theft of camp supplies"
+  },
+  {
+    "slug": "john-wicktorio:-no-debts-for-old-men-(quest)",
+    "name": "John Wicktorio: No Debts for Old Men (Quest)"
+  },
+  {
+    "slug": "john-wicktorio:-no-debts-for-old-men—epilogue",
+    "name": "John Wicktorio: No Debts for Old Men—Epilogue"
+  },
+  {
+    "slug": "journal-of-jinzhou:-vo.1",
+    "name": "Journal of Jinzhou: Vo.1"
+  },
+  {
+    "slug": "journal-of-jinzhou:-vol.2",
+    "name": "Journal of Jinzhou: Vol.2"
+  },
+  {
+    "slug": "kaleidoscope-of-hongzhen",
+    "name": "Kaleidoscope of Hongzhen"
+  },
+  {
+    "slug": "la-la-echo",
+    "name": "La La Echo"
+  },
+  {
+    "slug": "langsheng's-request",
+    "name": "Langsheng's Request"
+  },
+  {
+    "slug": "later-in-the-story",
+    "name": "Later in the Story"
+  },
+  {
+    "slug": "legacy-of-the-lasting-night",
+    "name": "Legacy of the Lasting Night"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-bird's-language---sequel",
+    "name": "Listen to Animals' Words: Translation of Bird's Language - Sequel"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-bird's-language",
+    "name": "Listen to Animals' Words: Translation of Bird's Language"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-cat's-language",
+    "name": "Listen to Animals' Words: Translation of Cat's Language"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-dog's-language",
+    "name": "Listen to Animals' Words: Translation of Dog's Language"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-fish's-language",
+    "name": "Listen to Animals' Words: Translation of Fish's Language"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-frog's-language",
+    "name": "Listen to Animals' Words: Translation of Frog's Language"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-lizard's-language",
+    "name": "Listen to Animals' Words: Translation of Lizard's Language"
+  },
+  {
+    "slug": "listen-to-animals'-words:-translation-of-rabbit's-language",
+    "name": "Listen to Animals' Words: Translation of Rabbit's Language"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail!",
+    "name": "Lollo Campaign, Set Sail!"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-i",
+    "name": "Lollo Campaign, Set Sail I"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-ii",
+    "name": "Lollo Campaign, Set Sail II"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-iii",
+    "name": "Lollo Campaign, Set Sail III"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-iv",
+    "name": "Lollo Campaign, Set Sail IV"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-v",
+    "name": "Lollo Campaign, Set Sail V"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-vi",
+    "name": "Lollo Campaign, Set Sail VI"
+  },
+  {
+    "slug": "lollo-campaign,-set-sail-vii",
+    "name": "Lollo Campaign, Set Sail VII"
+  },
+  {
+    "slug": "lollo-campaign,-start!",
+    "name": "Lollo Campaign, Start!"
+  },
+  {
+    "slug": "lollo-campaign-finale",
+    "name": "Lollo Campaign Finale"
+  },
+  {
+    "slug": "lollo-campaign-i",
+    "name": "Lollo Campaign I"
+  },
+  {
+    "slug": "lollo-campaign-ii",
+    "name": "Lollo Campaign II"
+  },
+  {
+    "slug": "lollo-campaign-iii",
+    "name": "Lollo Campaign III"
+  },
+  {
+    "slug": "lollo-campaign-iv",
+    "name": "Lollo Campaign IV"
+  },
+  {
+    "slug": "lollo-campaign-rerun:-navigation",
+    "name": "Lollo Campaign Rerun: Navigation"
+  },
+  {
+    "slug": "lollo-campaign-v",
+    "name": "Lollo Campaign V"
+  },
+  {
+    "slug": "lollo-campaign-vi",
+    "name": "Lollo Campaign VI"
+  },
+  {
+    "slug": "lollo-campaign:-comeback-(quest)",
+    "name": "Lollo Campaign: Comeback (Quest)"
+  },
+  {
+    "slug": "lollo-campaign:-ice-savior",
+    "name": "Lollo Campaign: Ice Savior"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-i",
+    "name": "Lollo Campaign: Navigation I"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-ii",
+    "name": "Lollo Campaign: Navigation II"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-iii",
+    "name": "Lollo Campaign: Navigation III"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-iv",
+    "name": "Lollo Campaign: Navigation IV"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-v",
+    "name": "Lollo Campaign: Navigation V"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-vi",
+    "name": "Lollo Campaign: Navigation VI"
+  },
+  {
+    "slug": "lollo-campaign:-navigation-vii",
+    "name": "Lollo Campaign: Navigation VII"
+  },
+  {
+    "slug": "lollo-campaign:-verification-(quest)",
+    "name": "Lollo Campaign: Verification (Quest)"
+  },
+  {
+    "slug": "lores-beyond-the-ranges",
+    "name": "Lores Beyond the Ranges"
+  },
+  {
+    "slug": "lost-history",
+    "name": "Lost History"
+  },
+  {
+    "slug": "lost-ranger",
+    "name": "Lost Ranger"
+  },
+  {
+    "slug": "love-in-the-time-of-fishing",
+    "name": "Love in the Time of Fishing"
+  },
+  {
+    "slug": "margherita's-daily-special-i",
+    "name": "Margherita's Daily Special I"
+  },
+  {
+    "slug": "margherita's-daily-special-ii",
+    "name": "Margherita's Daily Special II"
+  },
+  {
+    "slug": "margherita's-daily-special-iii",
+    "name": "Margherita's Daily Special III"
+  },
+  {
+    "slug": "margherita's-daily-special-iv",
+    "name": "Margherita's Daily Special IV"
+  },
+  {
+    "slug": "margherita's-daily-special-v",
+    "name": "Margherita's Daily Special V"
+  },
+  {
+    "slug": "margherita's-daily-special-vi",
+    "name": "Margherita's Daily Special VI"
+  },
+  {
+    "slug": "margherita's-daily-special-vii",
+    "name": "Margherita's Daily Special VII"
+  },
+  {
+    "slug": "margherita's-daily-special-viii",
+    "name": "Margherita's Daily Special VIII"
+  },
+  {
+    "slug": "may-applause-greet-you",
+    "name": "May Applause Greet You"
+  },
+  {
+    "slug": "memory-travelogue-(quest)",
+    "name": "Memory Travelogue (Quest)"
+  },
+  {
+    "slug": "message-in-a-bottle",
+    "name": "Message in a Bottle"
+  },
+  {
+    "slug": "message-stranded-in-shimmer",
+    "name": "Message Stranded in Shimmer"
+  },
+  {
+    "slug": "messenger",
+    "name": "Messenger"
+  },
+  {
+    "slug": "mianloong-chamber-(quest)",
+    "name": "Mianloong Chamber (Quest)"
+  },
+  {
+    "slug": "mirrored-loong's-pearl",
+    "name": "Mirrored Loong's Pearl"
+  },
+  {
+    "slug": "misfortune-on-a-workday",
+    "name": "Misfortune on a Workday"
+  },
+  {
+    "slug": "mithril",
+    "name": "Mithril"
+  },
+  {
+    "slug": "moments-captured-in-light",
+    "name": "Moments Captured in Light"
+  },
+  {
+    "slug": "monuments-of-condolence",
+    "name": "Monuments of Condolence"
+  },
+  {
+    "slug": "moon-shall-be-my-guest",
+    "name": "Moon Shall Be My Guest"
+  },
+  {
+    "slug": "moonlit-reunion",
+    "name": "Moonlit Reunion"
+  },
+  {
+    "slug": "morning-star-i",
+    "name": "Morning Star I"
+  },
+  {
+    "slug": "morning-star-ii",
+    "name": "Morning Star II"
+  },
+  {
+    "slug": "mountain-hunter-i",
+    "name": "Mountain Hunter I"
+  },
+  {
+    "slug": "mountain-hunter-ii",
+    "name": "Mountain Hunter II"
+  },
+  {
+    "slug": "mountain-hunter-iii",
+    "name": "Mountain Hunter III"
+  },
+  {
+    "slug": "mountain-hunter-iv",
+    "name": "Mountain Hunter IV"
+  },
+  {
+    "slug": "mountain-melodies",
+    "name": "Mountain Melodies"
+  },
+  {
+    "slug": "mummer's-wish",
+    "name": "Mummer's Wish"
+  },
+  {
+    "slug": "new-arrival-in-the-big-city",
+    "name": "New Arrival in The Big City"
+  },
+  {
+    "slug": "no-response-tonight",
+    "name": "No Response Tonight"
+  },
+  {
+    "slug": "ocean-is-a-soul's-rest",
+    "name": "Ocean Is a Soul's Rest"
+  },
+  {
+    "slug": "ode-to-the-second-sunrise",
+    "name": "Ode to the Second Sunrise"
+  },
+  {
+    "slug": "old-man-and-the-whale-(quest)",
+    "name": "Old Man and the Whale (Quest)"
+  },
+  {
+    "slug": "ominous-star",
+    "name": "Ominous Star"
+  },
+  {
+    "slug": "operation:-frontier-renewal-(quest)",
+    "name": "Operation: Frontier Renewal (Quest)"
+  },
+  {
+    "slug": "operation:-lunar-duo",
+    "name": "Operation: Lunar Duo"
+  },
+  {
+    "slug": "pastures-like-old-times",
+    "name": "Pastures like old times"
+  },
+  {
+    "slug": "peak-of-the-arch-shaped-rock",
+    "name": "Peak of The Arch-Shaped Rock"
+  },
+  {
+    "slug": "peculiar-blake-bloom",
+    "name": "Peculiar Blake Bloom"
+  },
+  {
+    "slug": "pedestal-device",
+    "name": "Pedestal Device"
+  },
+  {
+    "slug": "photos-of-jinzhou",
+    "name": "Photos of Jinzhou"
+  },
+  {
+    "slug": "pincer-maneuver-warriors-(quest)",
+    "name": "Pincer Maneuver Warriors (Quest)"
+  },
+  {
+    "slug": "platya's-gift",
+    "name": "Platya's Gift"
+  },
+  {
+    "slug": "plushie-expedition-squad",
+    "name": "Plushie Expedition Squad"
+  },
+  {
+    "slug": "plushie-squad's-clean-return",
+    "name": "Plushie Squad's Clean Return"
+  },
+  {
+    "slug": "professional-inheritance",
+    "name": "Professional Inheritance"
+  },
+  {
+    "slug": "pulses-of-the-plains",
+    "name": "Pulses of the Plains"
+  },
+  {
+    "slug": "purify-the-tapes-of-last-words",
+    "name": "Purify the Tapes of Last Words"
+  },
+  {
+    "slug": "puzzle-of-puzzles",
+    "name": "Puzzle of Puzzles"
+  },
+  {
+    "slug": "quest-of-faith",
+    "name": "Quest of Faith"
+  },
+  {
+    "slug": "rabbit-reflected-in-shades",
+    "name": "Rabbit Reflected in Shades"
+  },
+  {
+    "slug": "ragunna-holiday",
+    "name": "Ragunna Holiday"
+  },
+  {
+    "slug": "ragunna-sales-blitz!-(quest)",
+    "name": "Ragunna Sales Blitz! (Quest)"
+  },
+  {
+    "slug": "ragunna-sales-blitz-ii",
+    "name": "Ragunna Sales Blitz II"
+  },
+  {
+    "slug": "ragunna-sales-blitz-iii",
+    "name": "Ragunna Sales Blitz III"
+  },
+  {
+    "slug": "ragunna-sales-blitz-iv",
+    "name": "Ragunna Sales Blitz IV"
+  },
+  {
+    "slug": "ragunna-sales-blitz-v",
+    "name": "Ragunna Sales Blitz V"
+  },
+  {
+    "slug": "ragunna-sales-blitz-vi",
+    "name": "Ragunna Sales Blitz VI"
+  },
+  {
+    "slug": "record-fragment",
+    "name": "Record Fragment"
+  },
+  {
+    "slug": "remnants-of-the-past-days",
+    "name": "Remnants of the Past Days"
+  },
+  {
+    "slug": "repair-the-lighthouse-at-the-wuming-bay",
+    "name": "Repair the Lighthouse at the Wuming Bay"
+  },
+  {
+    "slug": "repair-the-lighthouse-in-desorock-highland",
+    "name": "Repair the lighthouse in Desorock Highland"
+  },
+  {
+    "slug": "replica-of-past-days",
+    "name": "Replica of Past Days"
+  },
+  {
+    "slug": "restart-the-radar",
+    "name": "Restart the radar"
+  },
+  {
+    "slug": "restore-plushie-village-i",
+    "name": "Restore Plushie Village I"
+  },
+  {
+    "slug": "restore-plushie-village-ii",
+    "name": "Restore Plushie Village II"
+  },
+  {
+    "slug": "restore-plushie-village-iii",
+    "name": "Restore Plushie Village III"
+  },
+  {
+    "slug": "restore-plushie-village-iv",
+    "name": "Restore Plushie Village IV"
+  },
+  {
+    "slug": "retro-game-collector",
+    "name": "Retro Game Collector"
+  },
+  {
+    "slug": "rewinding-raindrops",
+    "name": "Rewinding Raindrops"
+  },
+  {
+    "slug": "riddle-and-reunion",
+    "name": "Riddle and Reunion"
+  },
+  {
+    "slug": "riverside-games-(quest)",
+    "name": "Riverside Games (Quest)"
+  },
+  {
+    "slug": "road-of-pilgrimage",
+    "name": "Road of Pilgrimage"
+  },
+  {
+    "slug": "route-network-crisis-part-i",
+    "name": "Route Network Crisis Part I"
+  },
+  {
+    "slug": "route-network-crisis-part-ii",
+    "name": "Route Network Crisis Part II"
+  },
+  {
+    "slug": "rust,-sword-and-the-sun",
+    "name": "Rust, Sword and the Sun"
+  },
+  {
+    "slug": "rusty-data-chip",
+    "name": "Rusty Data Chip"
+  },
+  {
+    "slug": "sail-day,-captain!",
+    "name": "Sail Day, Captain!"
+  },
+  {
+    "slug": "samousas's-treasure",
+    "name": "Samousas's Treasure"
+  },
+  {
+    "slug": "save-the-world?-save-the-cat!-(daily-quest)",
+    "name": "Save the World? Save the Cat! (Daily Quest)"
+  },
+  {
+    "slug": "save-the-world?-save-the-cat!-(side-quest)",
+    "name": "Save the World? Save the Cat! (Side Quest)"
+  },
+  {
+    "slug": "scale-of-memories",
+    "name": "Scale of Memories"
+  },
+  {
+    "slug": "science-gone-mad-i",
+    "name": "Science Gone Mad I"
+  },
+  {
+    "slug": "science-gone-mad-ii",
+    "name": "Science Gone Mad II"
+  },
+  {
+    "slug": "science-gone-mad-iii",
+    "name": "Science Gone Mad III"
+  },
+  {
+    "slug": "science-gone-mad-iv",
+    "name": "Science Gone Mad IV"
+  },
+  {
+    "slug": "science-gone-mad-v",
+    "name": "Science Gone Mad V"
+  },
+  {
+    "slug": "sea-of-flowers-in-the-valley",
+    "name": "Sea of Flowers in the Valley"
+  },
+  {
+    "slug": "seaside-arena-access-card",
+    "name": "Seaside Arena Access Card"
+  },
+  {
+    "slug": "second-coming-of-solaris-(quest)",
+    "name": "Second Coming of Solaris (Quest)"
+  },
+  {
+    "slug": "second-coming-of-solaris-(ultra)-story",
+    "name": "Second Coming of Solaris (Ultra)/Story"
+  },
+  {
+    "slug": "secret-investigation",
+    "name": "Secret Investigation"
+  },
+  {
+    "slug": "serendipity",
+    "name": "Serendipity"
+  },
+  {
+    "slug": "serenity-of-xiehua-village",
+    "name": "Serenity of Xiehua Village"
+  },
+  {
+    "slug": "set-sail!-pro-angler!",
+    "name": "Set Sail! Pro Angler!"
+  },
+  {
+    "slug": "shadow-of-glory",
+    "name": "Shadow of Glory"
+  },
+  {
+    "slug": "shadow-of-the-past",
+    "name": "Shadow of the Past"
+  },
+  {
+    "slug": "shadow-of-the-towers",
+    "name": "Shadow of the Towers"
+  },
+  {
+    "slug": "shadow-of-the-towers:-command-rise",
+    "name": "Shadow of the Towers: Command Rise"
+  },
+  {
+    "slug": "shadow-of-the-towers:-resounding-rise",
+    "name": "Shadow of the Towers: Resounding Rise"
+  },
+  {
+    "slug": "shadow-of-the-towers:-twilight-rise",
+    "name": "Shadow of the Towers: Twilight Rise"
+  },
+  {
+    "slug": "shadows-of-the-past",
+    "name": "Shadows of the Past"
+  },
+  {
+    "slug": "sheet-music-fragment",
+    "name": "Sheet Music Fragment"
+  },
+  {
+    "slug": "shooting-party",
+    "name": "Shooting Party"
+  },
+  {
+    "slug": "should-the-shooting-stars-blaze",
+    "name": "Should the Shooting Stars Blaze"
+  },
+  {
+    "slug": "silent-as-a-falling-leaf",
+    "name": "Silent as a Falling Leaf"
+  },
+  {
+    "slug": "silver-haired-echo-trainer---i",
+    "name": "Silver-haired Echo Trainer - I"
+  },
+  {
+    "slug": "silver-haired-echo-trainer---ii",
+    "name": "Silver-haired Echo Trainer - II"
+  },
+  {
+    "slug": "silver-haired-echo-trainer---iii",
+    "name": "Silver-haired Echo Trainer - III"
+  },
+  {
+    "slug": "silver-moon?-crimson-moon?",
+    "name": "Silver Moon? Crimson Moon?"
+  },
+  {
+    "slug": "skyward-voyage",
+    "name": "Skyward Voyage"
+  },
+  {
+    "slug": "skyward-voyage:-epilogue",
+    "name": "Skyward Voyage: Epilogue"
+  },
+  {
+    "slug": "small-wooly,-big-adventures",
+    "name": "Small Wooly, Big Adventures"
+  },
+  {
+    "slug": "so-as-the-melting-snow-desires",
+    "name": "So as the Melting Snow Desires"
+  },
+  {
+    "slug": "sol3-phase-ascension:-phase-i",
+    "name": "SOL3 Phase Ascension: Phase I"
+  },
+  {
+    "slug": "sol3-phase-ascension:-phase-ii",
+    "name": "SOL3 Phase Ascension: Phase II"
+  },
+  {
+    "slug": "sol3-phase-ascension:-phase-iii",
+    "name": "SOL3 Phase Ascension: Phase III"
+  },
+  {
+    "slug": "solaris-weather-forecast-(quest)",
+    "name": "Solaris Weather Forecast (Quest)"
+  },
+  {
+    "slug": "solaris-weather-forecast:-epilogue",
+    "name": "Solaris Weather Forecast: Epilogue"
+  },
+  {
+    "slug": "solitary-path",
+    "name": "Solitary Path"
+  },
+  {
+    "slug": "somnoire:-illusive-realms",
+    "name": "Somnoire: Illusive Realms"
+  },
+  {
+    "slug": "special-response-force-(quest)",
+    "name": "Special Response Force (Quest)"
+  },
+  {
+    "slug": "specialty-drinks",
+    "name": "Specialty Drinks"
+  },
+  {
+    "slug": "speed-up!-f.u.e.l.-instrumentality-project!-(quest)",
+    "name": "Speed Up! F.U.E.L. Instrumentality Project! (Quest)"
+  },
+  {
+    "slug": "spring-adventures",
+    "name": "Spring Adventures"
+  },
+  {
+    "slug": "stagnant-dawn-on-wastelands",
+    "name": "Stagnant Dawn on Wastelands"
+  },
+  {
+    "slug": "stand-up-show",
+    "name": "Stand-up Show"
+  },
+  {
+    "slug": "starlights-from-yesterdays",
+    "name": "Starlights from Yesterdays"
+  },
+  {
+    "slug": "starry-is-the-night",
+    "name": "Starry is the Night"
+  },
+  {
+    "slug": "stygian-lacrimosa",
+    "name": "Stygian Lacrimosa"
+  },
+  {
+    "slug": "sunny-season",
+    "name": "Sunny Season"
+  },
+  {
+    "slug": "tacet-discord-hunter",
+    "name": "Tacet Discord Hunter"
+  },
+  {
+    "slug": "tacit-partnership",
+    "name": "Tacit Partnership"
+  },
+  {
+    "slug": "tactical-simulacra-(side-quest)",
+    "name": "Tactical Simulacra (Side Quest)"
+  },
+  {
+    "slug": "tactical-simulacra:-rerun",
+    "name": "Tactical Simulacra: Rerun"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-averardo-vault",
+    "name": "Tales of the Past and Present: Averardo Vault"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-central-plains",
+    "name": "Tales of the Past and Present: Central Plains"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-desorock-highland",
+    "name": "Tales of the Past and Present: Desorock Highland"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-dim-forest",
+    "name": "Tales of the Past and Present: Dim Forest"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-egla-town",
+    "name": "Tales of the Past and Present: Egla Town"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-fagaceae-peninsula",
+    "name": "Tales of the Past and Present: Fagaceae Peninsula"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-gorges-of-spirits",
+    "name": "Tales of the Past and Present: Gorges of Spirits"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-hallowed-reach",
+    "name": "Tales of the Past and Present: Hallowed Reach"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-nimbus-sanctum",
+    "name": "Tales of the Past and Present: Nimbus Sanctum"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-norfall-barrens",
+    "name": "Tales of the Past and Present: Norfall Barrens"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-penitent's-end",
+    "name": "Tales of the Past and Present: Penitent's End"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-port-city-of-guixu",
+    "name": "Tales of the Past and Present: Port City of Guixu"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-ragunna-city",
+    "name": "Tales of the Past and Present: Ragunna City"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-thessaleo-fells",
+    "name": "Tales of the Past and Present: Thessaleo Fells"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-tiger's-maw",
+    "name": "Tales of the Past and Present: Tiger's Maw"
+  },
+  {
+    "slug": "tales-of-the-past-and-present:-whining-aix's-mire",
+    "name": "Tales of the Past and Present: Whining Aix's Mire"
+  },
+  {
+    "slug": "the-adventures-of-plushie-squad",
+    "name": "The Adventures of Plushie Squad"
+  },
+  {
+    "slug": "the-best-audience",
+    "name": "The Best Audience"
+  },
+  {
+    "slug": "the-bizarre-brothers",
+    "name": "The Bizarre Brothers"
+  },
+  {
+    "slug": "the-bizarre-brothers:-fratellino",
+    "name": "The Bizarre Brothers: Fratellino"
+  },
+  {
+    "slug": "the-bizarre-brothers:-fratello",
+    "name": "The Bizarre Brothers: Fratello"
+  },
+  {
+    "slug": "the-bizarre-brothers:-fratellone",
+    "name": "The Bizarre Brothers: Fratellone"
+  },
+  {
+    "slug": "the-bygone-shall-always-return",
+    "name": "The Bygone Shall Always Return"
+  },
+  {
+    "slug": "the-commander-of-time",
+    "name": "The Commander of Time"
+  },
+  {
+    "slug": "the-eternal-concert",
+    "name": "The Eternal Concert"
+  },
+  {
+    "slug": "the-fabled-magnetic-cube-mechanics---i",
+    "name": "The Fabled Magnetic Cube Mechanics - I"
+  },
+  {
+    "slug": "the-fabled-magnetic-cube-mechanics---ii",
+    "name": "The Fabled Magnetic Cube Mechanics - II"
+  },
+  {
+    "slug": "the-fabled-magnetic-cube-mechanics---iii",
+    "name": "The Fabled Magnetic Cube Mechanics - III"
+  },
+  {
+    "slug": "the-film-loving-ghost-miko",
+    "name": "The Film-Loving Ghost Miko"
+  },
+  {
+    "slug": "the-flaming-red-from-tomorrow",
+    "name": "The Flaming Red from Tomorrow"
+  },
+  {
+    "slug": "the-hidden-treasure-of-the-black-shores",
+    "name": "The Hidden Treasure of the Black Shores"
+  },
+  {
+    "slug": "the-impossible-trial",
+    "name": "The Impossible Trial"
+  },
+  {
+    "slug": "the-last-knight",
+    "name": "The Last Knight"
+  },
+  {
+    "slug": "the-maiden,-the-defier,-the-death-crier",
+    "name": "The Maiden, The Defier, The Death Crier"
+  },
+  {
+    "slug": "the-one-that-impresses",
+    "name": "The One that Impresses"
+  },
+  {
+    "slug": "the-past-is-the-future:-continued",
+    "name": "The Past is the Future: Continued"
+  },
+  {
+    "slug": "the-past-is-the-future:-epilogue",
+    "name": "The Past is the Future: Epilogue"
+  },
+  {
+    "slug": "the-past-is-the-future:-introduction",
+    "name": "The Past is the Future: Introduction"
+  },
+  {
+    "slug": "the-plushie-village",
+    "name": "The Plushie Village"
+  },
+  {
+    "slug": "the-present-and-the-future",
+    "name": "The Present and the Future"
+  },
+  {
+    "slug": "the-rescued-researcher",
+    "name": "The Rescued Researcher"
+  },
+  {
+    "slug": "the-sacred-breeze-so-often-breathes",
+    "name": "The Sacred Breeze So Often Breathes"
+  },
+  {
+    "slug": "the-sailor's-treasure",
+    "name": "The Sailor's Treasure"
+  },
+  {
+    "slug": "the-sea-just-within-reach",
+    "name": "The Sea Just Within Reach"
+  },
+  {
+    "slug": "the-song-of-ice-and-steel",
+    "name": "The Song of Ice and Steel"
+  },
+  {
+    "slug": "the-star-that-voyages-far",
+    "name": "The Star That Voyages Far"
+  },
+  {
+    "slug": "the-supreme-gunslinger!",
+    "name": "The Supreme Gunslinger!"
+  },
+  {
+    "slug": "third-rate-painter",
+    "name": "Third-rate Painter"
+  },
+  {
+    "slug": "three-wishes",
+    "name": "Three Wishes"
+  },
+  {
+    "slug": "through-the-sea-thou-break",
+    "name": "Through the Sea Thou Break"
+  },
+  {
+    "slug": "tidal-defense-simulator-(quest)",
+    "name": "Tidal Defense Simulator (Quest)"
+  },
+  {
+    "slug": "time-to-study",
+    "name": "Time to Study"
+  },
+  {
+    "slug": "to-mt.-firmament",
+    "name": "To Mt. Firmament"
+  },
+  {
+    "slug": "traces-of-tides-(quest)",
+    "name": "Traces of Tides (Quest)"
+  },
+  {
+    "slug": "travel-in-jinzhou:-gulpuffs",
+    "name": "Travel in Jinzhou: Gulpuffs"
+  },
+  {
+    "slug": "trials-of-old",
+    "name": "Trials of Old"
+  },
+  {
+    "slug": "true-colors",
+    "name": "True Colors"
+  },
+  {
+    "slug": "truthseeker's-pass-(quest)",
+    "name": "Truthseeker's Pass (Quest)"
+  },
+  {
+    "slug": "uncovering-past-heroes-(quest)",
+    "name": "Uncovering Past Heroes (Quest)"
+  },
+  {
+    "slug": "under-the-moonlit-banyan",
+    "name": "Under the Moonlit Banyan"
+  },
+  {
+    "slug": "under-the-same-moonlit-sky",
+    "name": "Under the Same Moonlit Sky"
+  },
+  {
+    "slug": "undercover-actor",
+    "name": "Undercover Actor"
+  },
+  {
+    "slug": "undercover-message",
+    "name": "Undercover Message"
+  },
+  {
+    "slug": "unforgettable-dishes",
+    "name": "Unforgettable Dishes"
+  },
+  {
+    "slug": "unfrozen-hope",
+    "name": "Unfrozen Hope"
+  },
+  {
+    "slug": "unparalleled-mechascout",
+    "name": "Unparalleled Mechascout"
+  },
+  {
+    "slug": "unsent-electronic-communication",
+    "name": "Unsent Electronic Communication"
+  },
+  {
+    "slug": "utterance-of-marvels:-i",
+    "name": "Utterance of Marvels: I"
+  },
+  {
+    "slug": "utterance-of-marvels:-ii",
+    "name": "Utterance of Marvels: II"
+  },
+  {
+    "slug": "veils-off-in-sun-or-shadow",
+    "name": "Veils Off in Sun or Shadow"
+  },
+  {
+    "slug": "vigil-of-endless-night",
+    "name": "Vigil of Endless Night"
+  },
+  {
+    "slug": "virtual-crisis",
+    "name": "Virtual Crisis"
+  },
+  {
+    "slug": "virtual-crisis:-frontier-trials-(quest)",
+    "name": "Virtual Crisis: Frontier Trials (Quest)"
+  },
+  {
+    "slug": "wait-for-godo",
+    "name": "Wait for Godo"
+  },
+  {
+    "slug": "walk-the-path-of-the-dragon",
+    "name": "Walk the Path of the Dragon"
+  },
+  {
+    "slug": "wavesline-insider",
+    "name": "WavesLine Insider"
+  },
+  {
+    "slug": "we-promise,-we-deliver",
+    "name": "We Promise, We Deliver"
+  },
+  {
+    "slug": "what-burns-beneath-frostlands",
+    "name": "What Burns Beneath Frostlands"
+  },
+  {
+    "slug": "what-yesterday-wept,-today-doth-sing",
+    "name": "What Yesterday Wept, Today Doth Sing"
+  },
+  {
+    "slug": "when-colors-fade",
+    "name": "When Colors Fade"
+  },
+  {
+    "slug": "when-moonlight-shines-in-the-forest",
+    "name": "When Moonlight Shines in the Forest"
+  },
+  {
+    "slug": "when-the-dawn-breaks",
+    "name": "When the Dawn Breaks"
+  },
+  {
+    "slug": "when-the-dawn-breaks:-epilogue",
+    "name": "When the Dawn Breaks: Epilogue"
+  },
+  {
+    "slug": "when-the-forest-is-no-longer-dim",
+    "name": "When the Forest is No Longer Dim"
+  },
+  {
+    "slug": "when-the-night-knocks",
+    "name": "When the Night Knocks"
+  },
+  {
+    "slug": "when-the-sky-watches-us-meet",
+    "name": "When the Sky Watches Us Meet"
+  },
+  {
+    "slug": "when-the-unknown-thrums",
+    "name": "When the Unknown Thrums"
+  },
+  {
+    "slug": "where-all-fish-converge",
+    "name": "Where All Fish Converge"
+  },
+  {
+    "slug": "where-light-takes-shape",
+    "name": "Where Light Takes Shape"
+  },
+  {
+    "slug": "where-sky-is-clear-and-glory-shines",
+    "name": "Where Sky is Clear and Glory Shines"
+  },
+  {
+    "slug": "where-sky-is-clear-and-glory-shines:-guardian-tower",
+    "name": "Where Sky is Clear and Glory Shines: Guardian Tower"
+  },
+  {
+    "slug": "where-sky-is-clear-and-glory-shines:-trial-grounds",
+    "name": "Where Sky is Clear and Glory Shines: Trial Grounds"
+  },
+  {
+    "slug": "where-starry-seas-endure-i",
+    "name": "Where Starry Seas Endure I"
+  },
+  {
+    "slug": "where-starry-seas-endure-ii",
+    "name": "Where Starry Seas Endure II"
+  },
+  {
+    "slug": "where-the-waterfalls-meet",
+    "name": "Where The Waterfalls Meet"
+  },
+  {
+    "slug": "where-wind-returns-to-celestial-realms",
+    "name": "Where Wind Returns to Celestial Realms"
+  },
+  {
+    "slug": "wild-heart's-return",
+    "name": "Wild Heart's Return"
+  },
+  {
+    "slug": "wish-upon-the-moon-i:-cry-of-the-soul",
+    "name": "Wish Upon the Moon I: Cry of the Soul"
+  },
+  {
+    "slug": "wish-upon-the-moon-ii:-the-elder's-promise",
+    "name": "Wish Upon the Moon II: The Elder's Promise"
+  },
+  {
+    "slug": "wish-upon-the-moon-iii:-dreaming-of-heroism",
+    "name": "Wish Upon the Moon III: Dreaming of Heroism"
+  },
+  {
+    "slug": "wish-upon-the-moon-iv:-swan-song",
+    "name": "Wish Upon the Moon IV: Swan Song"
+  },
+  {
+    "slug": "wish-you-were-here",
+    "name": "Wish You Were Here"
+  },
+  {
+    "slug": "wishes-in-the-bell",
+    "name": "Wishes in the Bell"
+  },
+  {
+    "slug": "wishes-in-the-bell:-epilogue",
+    "name": "Wishes in the Bell: Epilogue"
+  },
+  {
+    "slug": "woman-in-mask",
+    "name": "Woman in Mask"
+  },
+  {
+    "slug": "xiuyi's-challenges",
+    "name": "Xiuyi's Challenges"
+  },
+  {
+    "slug": "yellowed-sketch",
+    "name": "Yellowed Sketch"
+  },
+  {
+    "slug": "yhoran's-tactical-trial",
+    "name": "Yhoran's Tactical Trial"
+  },
+  {
+    "slug": "your-summer-will-never-wither-(quest)",
+    "name": "Your Summer Will Never Wither (Quest)"
+  }
+]
