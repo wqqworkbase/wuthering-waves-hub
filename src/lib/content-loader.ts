@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import type { ContentIndex, ContentIndexItem } from './types'
+import type { ContentIndex } from './types'
 
 const CONTENT_ROOT = path.join(process.cwd(), 'content')
 
