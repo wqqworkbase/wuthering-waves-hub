@@ -43,3 +43,45 @@
     @apply bg-gradient-to-r from-ww-cyan to-cyan-700 bg-clip-text text-transparent;
   }
 }
+
+@layer components {
+  /* Game UI-style decorative corner brackets */
+  .ww-frame {
+    position: relative;
+    border: 1px solid rgba(0,199,230,0.15);
+    background: rgba(255,255,255,0.7);
+    backdrop-filter: blur(12px);
+  }
+  .ww-frame::before, .ww-frame::after {
+    content: '';
+    position: absolute;
+    width: 20px; height: 20px;
+    border-color: rgba(0,199,230,0.4);
+    border-style: solid;
+  }
+  .ww-frame::before { top: -1px; left: -1px; border-width: 2px 0 0 2px; border-radius: 4px 0 0 0; }
+  .ww-frame::after { bottom: -1px; right: -1px; border-width: 0 2px 2px 0; border-radius: 0 0 4px 0; }
+
+  /* Glowing divider */
+  .ww-divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(0,199,230,0.4), transparent);
+    border: none;
+    margin: 2rem 0;
+  }
+
+  /* Stylized scrollbar */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: #f1f5f9; }
+  ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+}
+
+@layer utilities {
+  /* Animated gradient border */
+  .border-glow {
+    border: 1px solid transparent;
+    background: linear-gradient(white, white) padding-box,
+                linear-gradient(135deg, rgba(0,199,230,0.3), rgba(232,168,64,0.2), rgba(0,199,230,0.1)) border-box;
+  }
+}
